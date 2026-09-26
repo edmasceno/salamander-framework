@@ -1,6 +1,6 @@
 # 🦎 Salamander Framework (V1)
 
-**Salamander** (Salamandra) is a fast, automated batch triage and malware pre-filtering engine written in Python. Engineered as the frontline perimeter scanner of **Project Chimera** (alongside *Black Ant* and *Crow*), Salamander sweeps target directories at scale, uncovers file masquerading via Magic Byte inspection, safely inspects nested archives in ephemeral environments, and flags malicious artifacts using custom YARA signatures before handing them over for deep reverse engineering.
+**Salamander** is a fast, automated batch triage and malware pre-filtering engine written in Python. Engineered as the frontline perimeter scanner of **Project Chimera** (alongside *Black Ant* and *Crow*), Salamander sweeps target directories at scale, uncovers file masquerading via Magic Byte inspection, safely inspects nested archives in ephemeral environments, and flags malicious artifacts using custom YARA signatures before handing them over for deep reverse engineering.
 
 ---
 
